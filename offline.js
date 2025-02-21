@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1740138505,
+	"version": 1740140218,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -19,6 +19,8 @@
 		"images/particlescoins.png",
 		"images/particlesgems.png",
 		"images/powershieldring-sheet0.png",
+		"images/boat1-sheet0.png",
+		"images/boat-sheet0.png",
 		"media/tap.m4a",
 		"media/tap.ogg",
 		"media/collect diamond.m4a",
